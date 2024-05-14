@@ -1,0 +1,20 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#0d2020",
+    "titleBar.activeBackground": "#0d2020"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true, // Tell VSCode to format files on save
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "cSpell.words": [
+    "fieldsets",
+    "groq",
+    "gsap",
+    "hotspot",
+    "policysmart",
+    "swiper"
+  ],
+  "dotenv.enableAutocloaking": false // Tell VSCode to use Prettier as default file formatter
+}
